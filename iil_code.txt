@@ -1,3 +1,7 @@
 x = "Hello World!"
 y = "IIL"
 print(x, y)
+
+# Note that you forgot a very important piece of code:
+
+d = "bye, have a good day"
